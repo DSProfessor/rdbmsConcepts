@@ -1,1 +1,3 @@
-This is a repo for introduction to concepts of RDBMS and SQL. 
+This is a repo for introduction to the concepts of RDBMS and SQL. 
+The dataset folder has example dataset that can be used for handson practice.
+It is an HR database having employee details. 
