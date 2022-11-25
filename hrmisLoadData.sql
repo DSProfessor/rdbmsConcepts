@@ -1,3 +1,6 @@
+--create database hrmis
+CREATE database hrmis; 
+
 -- Create table to connect titles and title ID numbers.
 CREATE TABLE titles (
     title_id VARCHAR(10)    NOT NULL,
