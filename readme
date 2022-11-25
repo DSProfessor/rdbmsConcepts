@@ -5,3 +5,4 @@ It is a fictional HRMIS database of Kritter Inc. specified in the minicase discu
 It has an All Cheatsheets folder which contains for now SQL cheatsheets for ready reference. 
 hrmisLoadData file has the script which will create a database named 'hrmis' create all the tables and load the data into the tables. 
 The file location needs to be changed to correctly reflect the database downloaded from the dataset folder.
+practiceExercise file contains all the basic hands-on exercises on SQL querying using this database.
