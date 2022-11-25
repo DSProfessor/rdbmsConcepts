@@ -1,5 +1,7 @@
 This is a repo for hosting the files and other aids used for the class introduction to the concepts of RDBMS and SQL and hands on practice. 
 Entire presentation can be viewed here: http://lnkiy.in/dsprofessor.
-The dataset folder has example dataset that can be used for handson practice.
+The dataset folder has example database that can be used for handson practice.
 It is a fictional HRMIS database of Kritter Inc. specified in the minicase discussed during the class. 
 It has an All Cheatsheets folder which contains for now SQL cheatsheets for ready reference. 
+hrmisLoadData file has the script which will create a database named 'hrmis' create all the tables and load the data into the tables. 
+The file location needs to be changed to correctly reflect the database downloaded from the dataset folder.
